@@ -1,2 +1,2 @@
 # CP
-Competitive programming 
+Competitive programming - codes written in C++
